@@ -13,7 +13,7 @@ Hocam bu kodladığım şey videoda belirli olsa da ben bir bilgi vereyim.
 unutmadan gta 5 nativelerini de kullanıyor olacağım ama bazen zaten videoda detaylı bir sunum yapmış olacağım. https://docs.fivem.net/natives/
 
 
-repo içine baranodevscript adlı LUA ile yazdığım scripti de ekledim scriptin çalışma videosunu bu linkten izleyebilirsiniz:
+repo içine baranodevscript adlı LUA ile yazdığım scripti de ekledim scriptin çalışma videosunu bu linkten izleyebilirsiniz: https://www.youtube.com/watch?v=41HFAZ1eu3s
 
 45 gün içinde 43 gün yaz stajından kalan 2 günden 1 günü yaz okulu sınavlarına 1 günü de bu ödev için ayırdım dürüst olacağım 50 saat ayırmadım.
 
